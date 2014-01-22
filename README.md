@@ -1,2 +1,6 @@
-teste
-=====
+<?php
+
+echo "goodnews";
+
+
+?>
